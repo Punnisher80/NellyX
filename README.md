@@ -1,7 +1,7 @@
 # Nelly Chat Bot
-• Just another Telegram AI chat bot written in Python using Pyrogram. By https://t.me/aspirer2
+• Just another Telegram AI chat bot written in Python using Pyrogram.
 
-• A Public Running Instance can be found on Telegram as [@NellyVBot](https://t.me/nellyVbot).
+• A Public Running Instance can be found on Telegram as [@Lovepirate].
 
 ![Deploy](https://telegra.ph/file/8e413b21ebcda0e52f3e8.jpg)
 
